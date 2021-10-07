@@ -21,4 +21,4 @@ $ cd inspirational-quotes
  }
 ```
 
-3. Make a pull request and push it.
+#### 3. Make a pull request and push it.
