@@ -54,5 +54,10 @@ var data = [
     "quote":"The only trustworthies: The Almighty, parents and your hardwork", 
     "author":"Hussain Lohawala"
   },
+  
+  {
+    "quote":"If you understand how easily people forget about dead, You will stop impressing others. So, try to impress the Creator not the Creation.", 
+    "author":"Unknown"
+  }
 
 ];
