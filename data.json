@@ -58,6 +58,11 @@ var data = [
   {
     "quote":"If you understand how easily people forget about dead, You will stop impressing others. So, try to impress the Creator not the Creation.", 
     "author":"Unknown"
+  },
+
+  {
+    "quote":"If you can dream it, you can do it.",
+    "author":"Walt Disney"
   }
 
 ];
