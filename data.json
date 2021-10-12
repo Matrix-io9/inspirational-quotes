@@ -55,4 +55,9 @@ var data = [
     "author":"Hussain Lohawala"
   },
 
+  {
+    "quote":"In order to succeed, we must first believe that we can.", 
+    "author":"Nikos Kazantzakis"
+  }
+
 ];
