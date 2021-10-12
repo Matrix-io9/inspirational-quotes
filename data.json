@@ -65,4 +65,9 @@ var data = [
     "author":"Walt Disney"
   }
 
+  {
+    "quote":"You cannot believe in God until you believe in yourself.",
+    "author":"Swami Vivekananda"
+  }
+
 ];
