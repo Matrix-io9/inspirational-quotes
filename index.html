@@ -4,10 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="Neon.css">
+    <link rel="stylesheet" href="index.css">
+    <script type="text/javascript" src="data.json"></script> 
+
     <title>OPEN SOURCE</title>
 </head>
 <body>
+    <div class="flex-container">
+    
+    <div>
+    <br>
     <a class="t1" href="#">
         <span></span>
         <span></span>
@@ -15,7 +21,6 @@
         <span></span>
         I LOVE 
     </a>
-
     <a class="t2" href="#">
         <span></span>
         <span></span>
@@ -24,6 +29,19 @@
         OPEN SOURCE!
         
     </a>
-
+    </div>
+    
+    <div>
+    <br>
+   
+    <textarea name="" id="myTextarea" cols="30" rows="10"></textarea>
+    </div>
+    
+    </div>
+    <script>
+    var textedJson = JSON.stringify(data, undefined, 4);
+    document.getElementById("myTextarea").innerHTML=textedJson;
+    </script>
+    
 </body>
 </html>
