@@ -63,6 +63,11 @@ var data = [
   {
     "quote":"If you can dream it, you can do it.",
     "author":"Walt Disney"
-  }
+  },
+
+  {  
+    "quote":"Make each day your masterpiece.",
+    "author":"John Wooden"
+ }
 
 ];
