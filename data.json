@@ -70,4 +70,9 @@ var data = [
     "author":"John Wooden"
  }
 
+  {
+    "quote":"You cannot believe in God until you believe in yourself.",
+    "author":"Swami Vivekananda"
+  }
+
 ];
