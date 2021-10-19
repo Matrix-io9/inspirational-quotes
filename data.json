@@ -5,7 +5,7 @@ var data = [
   },
 
   {
-    "quote":"Keep your face always toward the sunshine - and shadows will fall behind you", 
+    "quote":"Keep your face always toward the sunshine - and shadows will fall behind you",
     "author":"Walt Whitman"
   },
 
@@ -15,7 +15,7 @@ var data = [
   },
 
   {
-    "quote":"All our dreams can come true, if we have the courage to pursue them", 
+    "quote":"All our dreams can come true, if we have the courage to pursue them",
     "author":"Walt Disney"
   },
 
@@ -25,38 +25,38 @@ var data = [
   },
 
   {
-    "quote":"Keep your face always toward the sunshine - and shadows will fall behind you", 
+    "quote":"Keep your face always toward the sunshine - and shadows will fall behind you",
     "author":"Walt Whitman"
   },
 
-  {  
+  {
     "quote":"Write the story thats in your heart, not the one that you think will pay the most",
     "author":"Brenda Jackson,author of Forged in Desire"
   },
 
   {
-    "quote":"Kindness is the language that deaf can hear and blind can see.", 
+    "quote":"Kindness is the language that deaf can hear and blind can see.",
     "author":"Mark Twain"
   },
 
   {
-    "quote":"They'll mock don't talk just walk", 
+    "quote":"They'll mock don't talk just walk",
     "author":"Hussain Lohawala"
   },
 
 
   {
-    "quote":"Love your soul not your body as it is short-lived", 
+    "quote":"Love your soul not your body as it is short-lived",
     "author":"Hussain Lohawala"
   },
 
   {
-    "quote":"The only trustworthies: The Almighty, parents and your hardwork", 
+    "quote":"The only trustworthies: The Almighty, parents and your hardwork",
     "author":"Hussain Lohawala"
   },
-  
+
   {
-    "quote":"If you understand how easily people forget about dead, You will stop impressing others. So, try to impress the Creator not the Creation.", 
+    "quote":"If you understand how easily people forget about dead, You will stop impressing others. So, try to impress the Creator not the Creation.",
     "author":"Unknown"
   },
 
@@ -65,9 +65,14 @@ var data = [
     "author":"Walt Disney"
   },
 
-  {  
+  {
     "quote":"Make each day your masterpiece.",
     "author":"John Wooden"
- }
+  },
+
+  {
+    "quote":"Many of life’s failures are people who did not realize how close they were to success when they gave up.",
+    "author":"Thomas A. Edison"
+  }
 
 ];
