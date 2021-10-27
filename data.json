@@ -69,5 +69,13 @@ var data = [
     "quote":"Make each day your masterpiece.",
     "author":"John Wooden"
  }
+  {
+    "quote":"Two things are infinite: the universe and human stupidity and I'm not sure about the universe.",
+    "author":"Albert Einstein"
+  }
 
+  {
+    "quote":"We have to dare to be ourselves, however frightening or strange that self may prove to be.",
+    "author":"May Sarton"
+  }
 ];
