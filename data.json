@@ -68,6 +68,11 @@ var data = [
   {  
     "quote":"Make each day your masterpiece.",
     "author":"John Wooden"
- }
+ },
 
+  {
+    "quote":"Once your mind stretches to a new level it never goes back to its original dimension." ,
+    "author":"Dr. APJ Abdul Kalam" 
+  }
+    
 ];
